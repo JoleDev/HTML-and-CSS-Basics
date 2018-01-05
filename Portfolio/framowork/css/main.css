@@ -1,0 +1,83 @@
+* {
+    border: 1px solid red !important;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.grid {
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+}
+
+.row {
+	width: 100%;
+	padding: 5px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.col-1 {
+	padding: 5px;
+	width: 8.3333%
+}
+
+.col-2 {
+	padding: 5px;
+	width: 16.6666%
+}
+
+.col-3 {
+	padding: 5px;
+	width: 25%
+}
+
+.col-4 {
+	padding: 5px;
+	width: 33.3333%
+}
+
+.col-5 {
+	padding: 5px;
+	width: 41.6666%
+}
+
+.col-6 {
+	padding: 5px;
+	width: 50%
+}
+
+.col-7 {
+	padding: 5px;
+	width: 58.3333%
+}
+
+.col-8 {
+	padding: 5px;
+	width: 66.6666%
+}
+
+.col-9 {
+	padding: 5px;
+	width: 75%
+}
+
+.col-10 {
+	padding: 5px;
+	width: 83.3333%
+}
+
+.col-11 {
+	padding: 5px;
+	width: 91.6666%;
+}
+
+.col-12 {
+	padding: 5px;
+	width: 100%
+}
